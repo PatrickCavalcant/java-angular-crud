@@ -1,6 +1,7 @@
 # java_angular_crud
-Java - Angular
-
+Java - Angular<br />
+#npm install -g json-server<br />
+<br />
 #Start frontend <br />
 npm i -g @angular/cli <br />
 npm install <br />
