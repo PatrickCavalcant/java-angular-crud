@@ -3,20 +3,25 @@
 [![author](https://img.shields.io/badge/author-patrick-red.svg)](https://www.linkedin.com/in/patrick-cavalcante-moraes-a95635179/) 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PatrickCavalcant)
 
-
+```
 npm install -g json-server
-<br />
+```
+
 
 <h3>Start frontend </h3>
-npm i -g @angular/cli <br />
-npm install <br />
-npm start <br />
-http://localhost:4200 <br />
 
+```
+npm i -g @angular/cli
+npm install
+npm start 
+http://localhost:4200 
+```
 
 <h3> Start backend</h3>
-ng serve <br />
-<br />
+
+```
+ng serve 
+```
 
 <h3> Interface CRUD <h3>
 <br />
